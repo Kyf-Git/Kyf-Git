@@ -1,0 +1,62 @@
+body {
+  background-color: #e6e6e6;
+  font-family: "Roboto", sans-serif;
+  font-size: 100%;
+  color: rgb(48, 51, 80);
+}
+
+.bloc1 {
+  padding: 10px;
+  width: 100%;
+  height: 20%;
+  background-color: white;
+}
+
+img {
+  margin-top: 2%;
+  margin-left: 20%;
+  width: 200px;
+  height: 200px;
+  border-radius: 250px;
+}
+
+.name {
+  /*text-align: center;*/
+  font-size: 150%;
+  padding-top: 10%;
+  margin-bottom: 30px;
+  margin-right: 40%;
+  float: right;
+    
+}
+
+#poste {
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+
+
+}
+
+.bloc2 {
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10%;
+  margin-left: 20%;
+  width: 25%;
+  height: 80%;
+  background-color: white;
+
+  float: left;
+}
+
+.bloc3 {
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10%;
+  margin-right: 20%;
+  width: 25%;
+  height: 80%;
+  float: right;
+  background-color: white;
+}
